@@ -7,18 +7,6 @@ font-family: "Century Gothic";
 background-color:#eee;
 }
 
-
-.title-ram{
-position: relative;
-font-family: 'Merriweather', serif;
-text-align: center; 
-font-size:27px;
-text-transform: capitalize; 
-color: #000000; 
-margin: 18px 0;
-}
-
-
 .team-row{
 padding: 40px 0; 
 max-width: 1440px;
