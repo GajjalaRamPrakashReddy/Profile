@@ -9,7 +9,7 @@ background-color:#eee;
 
 .member{
 flex:1 1 250px;
-max-width: 425px; 
+max-width: 500px; 
 padding: 20px 10px; 
 text-align: center; 
 transition: all 0.3s;
