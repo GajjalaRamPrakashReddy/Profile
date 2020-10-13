@@ -4,7 +4,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 font-family: "Century Gothic";
-background-color:#eee;
+background-color:#D3D3D3;;
 }
 
 .team-row{
@@ -16,6 +16,7 @@ display: flex;
 justify-content: center; 
 flex-wrap: wrap;
 margin-color:Black;
+background-color:#eee;
 }
 
 
