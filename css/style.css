@@ -26,7 +26,6 @@ transform: translateY(-20px);
 }
 
 
-
 .Ram{
 display: block;
 width: 200px; 
@@ -37,27 +36,19 @@ object-fit: cover;
 border:4px solid #7fff00;
 }
 
-
-
-
 .prakash{
 color:#000000;
+padding:15px;
 }
-
-
-
-
 
 a{
 color:#000000;
-margin: 30px;
+margin: 45px;
 text-decoration:none;
 }
 a:hover{
 color:#EAF6F6;
 }
-
-
 
 hr{
 border:dotted #40514E 3px;
@@ -65,8 +56,6 @@ border-bottom:none;
 width:65%;
 margin:auto;
 }
-
-
 
 .member h2{
 text-transform: uppercase;
@@ -87,7 +76,6 @@ font-size:15px;
 
 .size{
 padding:20px 0 0 0;
-
 }
 
 
@@ -107,4 +95,3 @@ text-decoration: none;
 a:active {
 text-decoration: none;
 }
-
