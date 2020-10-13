@@ -24,7 +24,7 @@ margin-color:Black;
 
 .member{
 flex:1 1 250px;
-max-width: 300px; 
+max-width: 375px; 
 padding: 20px 10px; 
 text-align: center; 
 transition: all 0.3s;
